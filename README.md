@@ -2,7 +2,7 @@ ___
 
 
 <div style="text-align: justify">
-Hi, I created this repository to share my appearance's settings for some Windows Terminal profiles that I use. You can use them if you like them, just copy the JSON from each folder into your profile's list inside the settings.json file in your system.
+Hi, I created this repository to share my appearance's settings for some of my Windows Terminal profiles. You can use them if you like them, just copy the JSON from each folder into your profile's list inside the settings.json file for your Terminal installation.
 </div>
 
 <div style="text-align: justify">
@@ -16,6 +16,7 @@ Also, there are some profiles where I use <a href="https://github.com/dylanaraps
 
 ## Examples
 ___
+
 Here what should like in your system:
 </br>
 
@@ -25,7 +26,6 @@ ___
 ![Ubuntu](./Ubuntu/ubuntu.png)
 
 Here is the Neofetch's command that I use with this profile:
-
 ```
 neofetch --source ~/ascii/katana --ascii_colors 0 7
 ```
