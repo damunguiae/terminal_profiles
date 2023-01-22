@@ -13,6 +13,8 @@ Also, there are some profiles where I use <a href="https://github.com/dylanaraps
 </div>
 </br>
 
+Btw, the ascii art came from [ASCII Art Archive](https://www.asciiart.eu/books) I just added neofetch's color format.
+
 ## Examples
 ___
 
