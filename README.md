@@ -1,5 +1,4 @@
-___
-
+# Windows Terminal Profiles
 
 <div style="text-align: justify">
 Hi, I created this repository to share my appearance's settings for some of my Windows Terminal profiles. You can use them if you like them, just copy the JSON from each folder into your profile's list inside the settings.json file for your Terminal installation.
