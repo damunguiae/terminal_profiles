@@ -1,0 +1,18 @@
+{
+  "antialiasingMode": "grayscale",
+  "bellStyle": "none",
+  "colorScheme": "Campbell Powershell",
+  "elevate": true,
+  "experimental.retroTerminalEffect": false,
+  "font": {
+    "face": "Lucida Sans Typewriter",
+    "size": 12,
+    "weight": "normal"
+  },
+  "guid": "{ HERE GOES YOUR PROFILE'S GUID}",
+  "hidden": false,
+  "name": "HERE GOES YOUR PROFILE'S NAME",
+  "opacity": 32,
+  "source": "HERE GOES YOUR PROFILE'S SOURCE, COULD BE A commandline ALSO",
+  "useAcrylic": true
+}

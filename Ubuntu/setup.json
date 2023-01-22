@@ -1,0 +1,18 @@
+{
+  "antialiasingMode": "aliased",
+  "bellStyle": "none",
+  "colorScheme": "Tango Dark",
+  "elevate": true,
+  "experimental.retroTerminalEffect": false,
+  "font": {
+    "face": "Lucida Console",
+    "size": 10,
+    "weight": "normal"
+  },
+  "guid": "{ HERE GOES YOUR PROFILE'S GUID}",
+  "hidden": false,
+  "name": "HERE GOES YOUR PROFILE'S NAME",
+  "opacity": 50,
+  "source": "HERE GOES YOUR PROFILE'S SOURCE, COULD BE A commandline ALSO",
+  "useAcrylic": true
+}
